@@ -1,3 +1,5 @@
+# no se por que me pasa esto mi
+
 Hola mucho gusto, Mi nombre es **Angel Bernardino Melquiades**, tengo 27 Años y soy originario del Estado de Guerrero.
 
 Actualmente soy estudiante de la Universidad **AMERIKE** en la carrera de **Ingenieria en Desarrollo de Software Interactivo y VideoJuegos** cursando el _3 Semestre de la Carrera_
@@ -28,3 +30,5 @@ Por otra parte, está carrera está siendo más llevadera (_a pesar de que traba
 1.
 ### Despues de los 18 años
 1.
+
+>Haber que me pasa por salir en medio de una explicacion de como usar un comanodo en la terminal mientras se usa en GitHud
