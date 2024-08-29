@@ -10,7 +10,7 @@ Pero para terminar, solo puedo decir que una de mis mayores metas al terminar la
 
 # Historia Personal
 ## Estudios
-Siendo realizta nunca fui un gran estudiente pero puedo decir que si tuve materias en las que me destaque academicamente.
+Siendo realizta nunca fui un gran estudiente pero puedo decir que si tuve materias en las que me destaque academicamente las cuales fueron.
 - Matematicas.
 - Fisica.
 - Quimica.
