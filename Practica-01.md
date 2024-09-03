@@ -55,13 +55,17 @@ El tipo de lectura cambio bastante y tambien se divesifico mucho con el tiempo, 
 Mis juegos favoritos los considero como tal, no solo porque tienen historias que me atraparon si no tambien por que me acompañaron y me siguen acompañando en mi vida actual.
 
 - [The last of Us](https://www.playstation.com/es-mx/the-last-of-us/)
+
 ![The Last of Us](https://w0.peakpx.com/wallpaper/820/847/HD-wallpaper-the-last-of-us-game-01.jpg)
 
 - [Crash Bandicoot](https://www.crashbandicoot.com/es/hub)
+
 ![Crash Bandicoot](https://image.api.playstation.com/vulcan/img/rnd/202010/2621/z8upfOkL4hLU1wWc2tDiAusM.png?w=5000&thumb=false)
 - [Devil May Cry](https://www.devilmaycry.com/en/)
+
 ![Devil May Cry](https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_801/b_white/f_auto/q_auto/ncom/software/switch/70010000017211/a867653e238e182ddc0807682c77a11d8784a723f0a0c968f6873b4858e848f6)
 - [Uncharted](https://www.playstation.com/es-mx/uncharted/)
+
 ![Uncharted](https://www.hellofriki.com/wp-content/uploads/2015/09/Uncharted-Collection-780x470.jpg)
 - Infamous
 ![Infamous](https://static1.thegamerimages.com/wordpress/wp-content/uploads/2020/07/infamous-2-wallpaper-e1593983623949.jpg?q=50&fit=crop&w=1100&h=618&dpr=1.5)
