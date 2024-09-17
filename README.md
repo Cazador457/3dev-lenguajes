@@ -7,3 +7,5 @@ Practica-03 (https://github.com/Cazador457/next-test)
 Practica-05 (https://github.com/Cazador457/3dev-lenguajes/blob/main/Practica-5.md)
 
 Practica-06 (https://github.com/Cazador457/Practica-6)
+
+Practica-07 (https://github.com/Cazador457/Practica-6)
