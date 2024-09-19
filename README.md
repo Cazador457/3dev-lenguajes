@@ -9,3 +9,5 @@ Practica-05 (https://github.com/Cazador457/3dev-lenguajes/blob/main/Practica-5.m
 Practica-06 (https://github.com/Cazador457/Practica-6)
 
 Practica-07 (https://github.com/Cazador457/Practica-6)
+
+Practica-08 (https://github.com/Cazador457/3dev-lenguajes/blob/main/Practica-8.md)
